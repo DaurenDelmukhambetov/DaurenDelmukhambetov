@@ -5,6 +5,7 @@
 - 👀  I’m interested in Java and Spring 
 - 🌱  I’m currently learning AWS services
 - 🤝  I’m looking to collaborate on microservice architecture
+- 🏆  I'm Spring and AWS certified
 
 <!---
 DaurenDelmukhambetov/DaurenDelmukhambetov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
