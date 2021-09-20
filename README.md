@@ -1,6 +1,9 @@
-- 👋  Hi, I’m @DaurenDelmukhambetov
+
+### Hi there!
+
+- 👋  I’m @DaurenDelmukhambetov
 - 👀  I’m interested in Java and Spring 
-- 🌱  I’m currently learning Kotlin
+- 🌱  I’m currently learning AWS services
 - 💞️  I’m looking to collaborate on microservice architecture
 
 <!---
