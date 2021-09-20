@@ -4,7 +4,7 @@
 - 👋  I’m @DaurenDelmukhambetov
 - 👀  I’m interested in Java and Spring 
 - 🌱  I’m currently learning AWS services
-- 💞️  I’m looking to collaborate on microservice architecture
+- 🤝  I’m looking to collaborate on microservice architecture
 
 <!---
 DaurenDelmukhambetov/DaurenDelmukhambetov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
